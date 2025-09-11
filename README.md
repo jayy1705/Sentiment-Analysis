@@ -1,8 +1,8 @@
 # Sentiment-Analysis
-A project to analyze and predict sentiment using XLM-roBERTa which is a large, multilingual language model trained on a massive dataset covering 100 different languages
+A project to analyze and predict sentiment using XLM-RoBERTa which is a large, multilingual language model trained on a massive dataset covering 100 different languages
 
 # Overview
-This project aims to classify text data into positive, negative, and/or neutral sentiments from more than 6+ languages usch as Arabic, English, Indonesian and Hindi. The model is trained on various merged AI datasets and demonstrates the complete workflow of a typical NLP project, from data preprocessing and Exploratory Data Analysis (EDA) to model training and evaluation.
+This project aims to classify text data into positive, negative, and/or neutral sentiments from more than 7+ languages usch as Arabic, English, Indonesian, Hindi, etc. The model is trained on various merged AI datasets and demonstrates the complete workflow of a typical NLP project, from data preprocessing and Exploratory Data Analysis (EDA) to model training and evaluation.
 
 # Key Features
 **• Data Cleaning & Preprocessing**: Implemented techniques like lowercasing, URLs removal, emoji conversion, punctuation removal, and tokenization.
